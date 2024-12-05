@@ -31,6 +31,7 @@ Learned about automated testing using selenium library.
 
 #### Output
   ##### Command Prompt
-  ![image](https://github.com/user-attachments/assets/f1778740-6067-4ed6-9655-268061786964)
+  
+![759b158d-9567-48b1-84dc-2f15b6567e3c](https://github.com/user-attachments/assets/d947915d-e8e7-4631-9296-9142976c0c06)
 
 
